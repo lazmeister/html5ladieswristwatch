@@ -8,3 +8,7 @@ HTML5/CSS3 Ladies Wrist Watch
   I was in HTML5 and CSS3, so I decided to do
   my own version, without any images, and no
   javascript, just plain old HTML5 and CSS3
+
+To view the final product, go here:
+
+http://jsfiddle.net/ZR4cj/embedded/result/
