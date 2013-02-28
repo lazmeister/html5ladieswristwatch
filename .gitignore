@@ -2,6 +2,7 @@
 *.slo
 *.lo
 *.o
+*.ds_store
 
 # Compiled Dynamic libraries
 *.so
